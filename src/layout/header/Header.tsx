@@ -10,7 +10,6 @@ import { useOnClickOutside } from "@/components/click-outside"
 const Navbar = () => {
 
 
-    
     const [click, setClick] = useState(false)
     const [open, setOpen] = useState(false);
     const [search, setSearch] = useState(false)
@@ -21,7 +20,7 @@ const Navbar = () => {
     const getSearch = () => {
         setSearch(!search)
         setClick(true) 
-        setTimeout(() => getFocus(), 540)
+        setTimeout(() => getFocus(), 740)
         
     }
     const MobMenu = () => {

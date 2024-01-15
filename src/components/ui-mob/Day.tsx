@@ -2,8 +2,8 @@ import { IDaySingle } from "@/interfaces"
 import { FC } from "react"
 
 
-const Day:FC<IDaySingle> = (day) => {
-    console.log(day)
+const Day:FC<IDaySingle> = ({day, dataMon}) => {
+
     const getDay = (num: string) => {
         switch (num){
        
@@ -22,9 +22,27 @@ const Day:FC<IDaySingle> = (day) => {
         };
     }
     
+    const getNumber = () => {
+        let monday = dataMon.dayMon
+        let startDay = dataMon.dayWeekStart
+        let EndDay = dataMon.dayWeekEnd
+        let data = Number(startDay[0]) + Number(day._N) - 1
+        if(monday == startDay){
+            if(startDay[1] === EndDay[1]){
+                data = Number(startDay[0]) + Number(day._N) - 1
+            }
+        }
+        return data
+    }
+    
     return(
         <>
-            <h3>{getDay(day.day._N)}</h3>
+            {day._N != 'undefined' ? (
+                <h3><span>{String(getNumber())}</span><span>, </span>{getDay(day._N)}</h3>
+            ) : (
+                <h2>Отдыхаем</h2>
+            )}
+            
         </>
     )
 }

@@ -25,7 +25,13 @@ export interface ListGroup {
     Group: Group[];
 }
 export interface IGroupSingle{
-    group: Group
+    group: Group;
+    dataMon: object[IDataMon]
+}
+export interface IDataMon{
+    dayWeekMon: string[],
+    dayWeekStart: string[],
+    dayWeekEnd: string[]
 }
 
 export interface Group {
@@ -37,7 +43,8 @@ export interface Timetable {
     Day: DayElement[];
 }
 export interface IDaySingle {
-    day: DayElement
+    day: DayElement;
+    dataMon: string[IDataMon]
 }
 
 export interface DayElement {

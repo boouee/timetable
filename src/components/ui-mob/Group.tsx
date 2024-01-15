@@ -1,13 +1,11 @@
-import { IGroupSingle } from "@/interfaces"
+import { IGroupSingle} from "@/interfaces"
 import { FC } from "react"
 import Card from "./Card"
 import Day from "./Day"
 
-const Group: FC<IGroupSingle> = (group) => {
+const Group: FC<IGroupSingle> = ({group, dataMon}) => {
 
-    const short = group.group.Timetable?.Day
-
-    console.log(group)
+    const short = group.Timetable?.Day
     const unDay ={
         Lesson: [''],
         _N:''
@@ -15,11 +13,11 @@ const Group: FC<IGroupSingle> = (group) => {
 
     return(
         <>
-            <h3>{group.group._Name}</h3>
+            <h3>{group._Name}</h3>
             {short ? (
-                short.length > 0 ? (
+                short.length ? (
                     short.map((day) => (
-                        <Day day={day} /> 
+                        <Day key={day._N} day={day} dataMon={dataMon}/> 
                 ))) : ''
             ): ''}
         </>
