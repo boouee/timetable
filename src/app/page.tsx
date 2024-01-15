@@ -3,7 +3,7 @@ import { Welcome} from '@/interfaces'
 
 
 async function getData() {
-  const res = await fetch ('http://localhost:3000/data.json')
+  const res = await fetch ('https://quiz-alpha-five.vercel.app/data.json')
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
  
