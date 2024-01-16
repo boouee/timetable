@@ -1,5 +1,5 @@
 import Home from '@/components/Home-mobile/Home'
-import Upload from '@/components/upload'
+import Upload from '@/components/uploader'
 import { Welcome} from '@/interfaces'
 import xml2js from 'xml-js'
 import res from '@/app/data.json'
