@@ -15,13 +15,13 @@ class Upload extends Component {
 	// On file select (from the pop up)
 	onFileChange = (event?: HTMLInputEvent) => {
 		// Update the state
-		if (!event.target?.files) {
+		/*if (!event.target?.files) {
 			return;
-		} else {
+		} else */
 			this.setState({
 				selectedFile: event.target.files[0],
 			});
-		}
+		//}
 	};
 
 	// On file upload (click the upload button)
