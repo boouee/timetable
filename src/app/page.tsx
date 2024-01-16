@@ -4,7 +4,8 @@ import xml2js from 'xml-js'
 
 
 async function getData() {
-  const res = await fetch ('https://tmetable-jr6l.vercel.app/data.json')
+  const xml = await fetch ('https://tmetable-jr6l.vercel.app/data.xml')
+  const res = xml2js(xml)
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
  
