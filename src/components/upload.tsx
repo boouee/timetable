@@ -1,5 +1,5 @@
 // Filename - App.js
-
+"use client";
 import axios from "axios";
 
 import React, { Component } from "react";
