@@ -19,7 +19,7 @@ class Upload extends Component {
 			return;
 		} else */
 			this.setState({
-				selectedFile: event.target.files[0],
+				selectedFile: event?.target.files[0],
 			});
 		//}
 	};
