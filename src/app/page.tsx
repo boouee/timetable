@@ -1,4 +1,5 @@
 import Home from '@/components/Home-mobile/Home'
+import Upload from '@/components/Upload'
 import { Welcome} from '@/interfaces'
 import xml2js from 'xml-js'
 import res from '@/app/data.json'
@@ -13,7 +14,7 @@ axios.get(XMLData, {
  //  console.log('Your xml file as string', response.data);
   return xml2js(response).json()
 });*/
-  //const res = await fetch ('@/app/data.json')
+  const res = await fetch ('https://timetable-sink1234.vercel.app/data.json')
  
   //const res = xml2js(xml)
   // The return value is *not* serialized
@@ -33,6 +34,7 @@ export default async function HomePage() {
 
   return (
     <>
+      <Upload />
       <Home YhZav={data.YhZav} />
     </>
   )
