@@ -12,8 +12,8 @@ axios.get(XMLData, {
 .then((response) => {
  //  console.log('Your xml file as string', response.data);
   return xml2js(response).json()
-});
-  //const res = await fetch ('http://localhost:5000/public/data.json')
+});*/
+  const res = await fetch ('/app/data.json')
   //const res = xml2js(xml)
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
