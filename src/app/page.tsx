@@ -4,8 +4,8 @@ import xml2js from 'xml-js'
 
 
 async function getData() {
-  const xml = await fetch ('./rs202320ta.xml')
-  const res = xml2js(xml)
+  const res = await fetch ('./data.json')
+  //const res = xml2js(xml)
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
  
