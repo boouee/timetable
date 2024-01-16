@@ -3,6 +3,7 @@ import SingleFileUploader from '@/components/uploader'
 import { Welcome} from '@/interfaces'
 import xml2js from 'xml-js'
 import res from '@/app/data.json'
+import { FileUpload } from 'primereact/fileupload';
 
 async function getData() {
  /* import XMLData from './data.xml';
