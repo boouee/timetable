@@ -1,7 +1,7 @@
 import Home from '@/components/Home-mobile/Home'
 import { Welcome} from '@/interfaces'
 import xml2js from 'xml-js'
-
+import res from '@/app/data.json'
 
 async function getData() {
  /* import XMLData from './data.xml';
@@ -13,7 +13,8 @@ axios.get(XMLData, {
  //  console.log('Your xml file as string', response.data);
   return xml2js(response).json()
 });*/
-  const res = await fetch ('@/app/data.json')
+  //const res = await fetch ('@/app/data.json')
+ 
   //const res = xml2js(xml)
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
