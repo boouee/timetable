@@ -3,15 +3,15 @@
 import axios from "axios";
 
 import React, { Component } from "react";
-
+interface HTMLInputEvent extends Event {
+    	target: HTMLInputElement & EventTarget;
+}
 class Upload extends Component {
 	state = {
 		// Initially, no file is selected
 		selectedFile: null,
 	};
-	interface HTMLInputEvent extends Event {
-    		target: HTMLInputElement & EventTarget;
-	}
+
 	// On file select (from the pop up)
 	onFileChange = (event?: HTMLInputEvent) => {
 		// Update the state
