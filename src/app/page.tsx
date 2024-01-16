@@ -8,7 +8,7 @@ const XMLDisplay = () => {
     fetch('/data.xml') // Replace with the URL or path to your XML data
       .then((response) => response.text())
       .then((xmlText) => {
-        const jsonData = xmlJs.xml2json(xmlText, { compact: true, ignoreAttributes: true, spaces: 1 });
+        const jsonData = xmlJs.xml2json(xmlText, { compact: true, nativeType: false, ignoreAttributes: true, spaces: 1 });
         setXmlData(JSON.parse(jsonData));
       })
       .catch((error) => {
