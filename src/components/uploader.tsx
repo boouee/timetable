@@ -19,7 +19,7 @@ const SingleFileUploader = () => {
 
       try {
         // You can write the URL of your server or any other endpoint used for file upload
-        const result = await fetch("https://tmetable-jr6l.vercel.app/tmp/", {
+        const result = await fetch("/tmp/", {
           method: "POST",
           body: formData,
         });
