@@ -15,7 +15,7 @@ axios.get(XMLData, {
  //  console.log('Your xml file as string', response.data);
   return xml2js(response).json()
 });*/
-  const res = await fetch ('https://www.dropbox.com/scl/fi/woy1suuov83tp74hgahby/1.paper?rlkey=f2m8rnoyown60xb4y2lb7p43y&dl=1')
+  const res = await fetch ('https://www.dropbox.com/scl/fi/p1eqezp0ayrw1vhn4ukjn/data.json?rlkey=pehlqse2xhv3udovjf4lgjcvu&dl=1')
  
   //const res = xml2js(xml)
   // The return value is *not* serialized
