@@ -1,0 +1,2714 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<YhZav>
+<Year>2023</Year>
+<Week>20</Week>
+<Numerator>true</Numerator>
+<Monday>08.01.2024</Monday>
+<Work> ñ 8/01/24 ïî 14/01/24</Work>
+<ListGroup>
+<Group Name="11-Ñ-23">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>Ôèçèêà</Name>
+<Teacher>Ïåòðîâà È Ñ</Teacher>
+<Auditorium Number="432" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Ñàãàåâà Ý Ì</Teacher>
+<Auditorium Number="220" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Òðèù Í Ï</Teacher>
+<Auditorium Number="349" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÁÙÅÑÒÂÎÇÍÀÍÈÅ</Name>
+<Teacher>Âëàñîâà Î Ë</Teacher>
+<Auditorium Number="429" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Äåæèíîâà Í À</Teacher>
+<Auditorium Number="348" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Äìèòðèåâà Ñ Ï</Teacher>
+<Auditorium Number="413" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Çåëèíñêàÿ Å À</Teacher>
+<Auditorium Number="412" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÐÓÑÑÊÈÉ ßÇÛÊ</Name>
+<Teacher>Çûöàðü Â È</Teacher>
+<Auditorium Number="404" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ËÈÒÅÐÀÒÓÐÀ</Name>
+<Teacher>Çûöàðü Â È</Teacher>
+<Auditorium Number="404" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Äåæèíîâà Í À</Teacher>
+<Auditorium Number="348" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="12-Ñ-23">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Äåæèíîâà Í À</Teacher>
+<Auditorium Number="348" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Äìèòðèåâà Ñ Ï</Teacher>
+<Auditorium Number="413" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Çåëèíñêàÿ Å À</Teacher>
+<Auditorium Number="412" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>Ôèçèêà</Name>
+<Teacher>Êóçíåöîâà Ì Í</Teacher>
+<Auditorium Number="430" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Äåæèíîâà Í À</Teacher>
+<Auditorium Number="348" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="13-Ñ-23">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Ñòåïàíîâ Â Ï</Teacher>
+<Auditorium Number="Ñ.ÇÀË" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Ðîæêîâà À Â</Teacher>
+<Auditorium Number="305" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Äìèòðèåâà Ñ Ï</Teacher>
+<Auditorium Number="413" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Çåëèíñêàÿ Å À</Teacher>
+<Auditorium Number="412" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Ôèçèêà</Name>
+<Teacher>Êóçíåöîâà Ì Í</Teacher>
+<Auditorium Number="430" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÁÈÎËÎÃÈß</Name>
+<Teacher>Êîâàë¸âà Î À</Teacher>
+<Auditorium Number="511" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Èëüèí À Î</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Èëüèí À Î</Teacher>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="14-Ñ-23">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Äìèòðèåâà Ñ Ï</Teacher>
+<Auditorium Number="413" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Çåëèíñêàÿ Å À</Teacher>
+<Auditorium Number="412" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÎÑÍ. ÁÅÇÎÏ. ÆÈÇÍÅÄ.</Name>
+<Teacher>Êîìàðîâà Ë Ñ</Teacher>
+<Auditorium Number="213" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Ìåëüíèêîâà Å È</Teacher>
+<Auditorium Number="432" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Êóçüìèíà È Ë</Teacher>
+<Auditorium Number="Ñ.Ç." Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="2">
+<Part N="1">
+<Name>Èíäèâ.ïðîåêò</Name>
+<Teacher>Äìèòðèåâà Ñ Ï</Teacher>
+<Auditorium Number="421" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÃÅÎÃÐÀÔÈß</Name>
+<Teacher>Ïåòðîâ À Þ</Teacher>
+<Auditorium Number="341" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Ôèçèêà</Name>
+<Teacher>Êóçíåöîâà Ì Í</Teacher>
+<Auditorium Number="430" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="15-Ñ-23">
+<Timetable>
+<Day N="6">
+<Lesson N="2">
+<Part N="1">
+<Name>ÎÑÍ. ÁÅÇÎÏ. ÆÈÇÍÅÄ.</Name>
+<Teacher>Êîìàðîâà Ë Ñ</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÁÙÅÑÒÂÎÇÍÀÍÈÅ</Name>
+<Teacher>Êîâàëåâà Èðèíà Ïåòðîâíà</Teacher>
+<Auditorium Number="351" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Êóçüìèíà È Ë</Teacher>
+<Auditorium Number="Ñ.Ç." Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="16-Ñ-23">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Ñóùèê Å Â</Teacher>
+<Auditorium Number="Ñ ÇÀË" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÐÓÑÑÊÈÉ ßÇÛÊ</Name>
+<Teacher>Êàìàåâà À À</Teacher>
+<Auditorium Number="404" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Áëàãîâåùåíñêàÿ Ê À</Teacher>
+<Auditorium Number="145" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Ïîíîìàðåâ Ã Ã</Teacher>
+<Auditorium Number="304" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="3">
+<Part N="1">
+<Name>Èíäèâ.ïðîåêò</Name>
+<Teacher>Äìèòðèåâà Ñ Ï</Teacher>
+<Auditorium Number="421" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÃÅÎÃÐÀÔÈß</Name>
+<Teacher>Ïåòðîâ À Þ</Teacher>
+<Auditorium Number="341" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="11-Ì-23">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Íåäîñåêèíà Ñ À</Teacher>
+<Auditorium Number="209" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Ñîêîëîâà À Ñ</Teacher>
+<Auditorium Number="434" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Êðàïèâèí È Ñ</Teacher>
+<Auditorium Number="511" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>Ôèçèêà</Name>
+<Teacher>Ïåòðîâà È Ñ</Teacher>
+<Auditorium Number="432" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÃÅÎÃÐÀÔÈß</Name>
+<Teacher>Ïåòðîâ À Þ</Teacher>
+<Auditorium Number="341" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Õèìèÿ</Name>
+<Teacher>Êîâàë¸âà Î À</Teacher>
+<Auditorium Number="511" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Êðàïèâèí È Ñ</Teacher>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="12-Ì-23">
+<Timetable>
+<Day N="5">
+<Lesson N="2">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Ïîíîìàðåâ Ã Ã</Teacher>
+<Auditorium Number="304" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Ïîíîìàðåâ Ã Ã</Teacher>
+<Auditorium Number="304" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Äìèòðèåâà Ñ Ï</Teacher>
+<Auditorium Number="413" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Çåëèíñêàÿ Å À</Teacher>
+<Auditorium Number="412" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÃÅÎÃÐÀÔÈß</Name>
+<Teacher>Ïåòðîâ À Þ</Teacher>
+<Auditorium Number="341" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÎÁÙÅÑÒÂÎÇÍÀÍÈÅ</Name>
+<Teacher>Êàðìàöêèé À À</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÁÙÅÑÒÂÎÇÍÀÍÈÅ</Name>
+<Teacher>Êàðìàöêèé À À</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Êàðìàöêèé À À</Teacher>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="11-À-23">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Øåñòàêîâà Ò Þ</Teacher>
+<Auditorium Number="405" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Øåñòàêîâà Ò Þ</Teacher>
+<Auditorium Number="405" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Ôèçèêà</Name>
+<Teacher>Êóçíåöîâà Ì Í</Teacher>
+<Auditorium Number="430" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÐÓÑÑÊÈÉ ßÇÛÊ</Name>
+<Teacher>Çûöàðü Â È</Teacher>
+<Auditorium Number="404" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Ôèçèêà</Name>
+<Teacher>Êóçíåöîâà Ì Í</Teacher>
+<Auditorium Number="430" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="12-À-23">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>Ôèçèêà</Name>
+<Teacher>Êóçíåöîâà Ì Í</Teacher>
+<Auditorium Number="430" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÎÁÙÅÑÒÂÎÇÍÀÍÈÅ</Name>
+<Teacher>Âëàñîâà Î Ë</Teacher>
+<Auditorium Number="429" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Øåñòàêîâà Ò Þ</Teacher>
+<Auditorium Number="405" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Øåñòàêîâà Ò Þ</Teacher>
+<Auditorium Number="405" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="3">
+<Part N="1">
+<Name>Ôèçèêà</Name>
+<Teacher>Êóçíåöîâà Ì Í</Teacher>
+<Auditorium Number="430" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÁÈÎËÎÃÈß</Name>
+<Teacher>Êîâàë¸âà Î À</Teacher>
+<Auditorium Number="511" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="13 -À-23">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>Êóðàòîðñêèé ÷àñ</Name>
+<Teacher>Êðàñíîâà Ê Â</Teacher>
+<Auditorium Number="332" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Ôèçèêà</Name>
+<Teacher>Êóçíåöîâà Ì Í</Teacher>
+<Auditorium Number="430" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Äåæèíîâà Í À</Teacher>
+<Auditorium Number="348" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Ìåëüíèêîâà Å È</Teacher>
+<Auditorium Number="432" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Äåæèíîâà Í À</Teacher>
+<Auditorium Number="348" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÎÁÙÅÑÒÂÎÇÍÀÍÈÅ</Name>
+<Teacher>Êîâàëåâà Èðèíà Ïåòðîâíà</Teacher>
+<Auditorium Number="351" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîìîâêèíà Ð À</Teacher>
+<Auditorium Number="346" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîíîâàëîâà È Þ</Teacher>
+<Auditorium Number="347" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="14-À-23">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÎÑÍ. ÁÅÇÎÏ. ÆÈÇÍÅÄ.</Name>
+<Teacher>Âåñåëîâà Ì Í</Teacher>
+<Auditorium Number="341" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Äåæèíîâà Í À</Teacher>
+<Auditorium Number="348" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Êóçüìèíà È Ë</Teacher>
+<Auditorium Number="Ñ.Ç." Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Èíäèâ.ïðîåêò</Name>
+<Teacher>Àíòîíîâ Â Ì</Teacher>
+<Auditorium Number="330" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÎÁÙÅÑÒÂÎÇÍÀÍÈÅ</Name>
+<Teacher>Êîâàëåâà Èðèíà Ïåòðîâíà</Teacher>
+<Auditorium Number="351" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Õèìèÿ</Name>
+<Teacher>Êîâàë¸âà Î À</Teacher>
+<Auditorium Number="511" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÌÀÒÅÌÀÒÈÊÀ</Name>
+<Teacher>Äåæèíîâà Í À</Teacher>
+<Auditorium Number="348" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Èëüèí À Î</Teacher>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="15-À-23">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Ïîëóýêòîâ Â Â</Teacher>
+<Auditorium Number="414" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Íåäîñåêèíà Ñ À</Teacher>
+<Auditorium Number="209" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Ñîêîëîâà À Ñ</Teacher>
+<Auditorium Number="434" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÐÓÑÑÊÈÉ ßÇÛÊ</Name>
+<Teacher>Êàìàåâà À À</Teacher>
+<Auditorium Number="404" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Êðàïèâèí È Ñ</Teacher>
+<Auditorium Number="511" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="101-À-23">
+</Group>
+<Group Name="102-À-23">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Êóçüìèíà È Ë</Teacher>
+<Auditorium Number="Ñ.Ç." Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß ÀÐÕÈÒÅÊÒÓÐÛ</Name>
+<Teacher>Ãëàçîâà Î Ñ</Teacher>
+<Auditorium Number="351" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÐÈÑÓÍÎÊ.ÆÈÂÎÏÈÑÜ</Name>
+<Teacher>Ãóùèíà Í À</Teacher>
+<Auditorium Number="325)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÐÈÑÓÍÎÊ.ÆÈÂÎÏÈÑÜ</Name>
+<Teacher>Ìàðòûíîâà-Ôèäåëüìàí À Ë</Teacher>
+<Auditorium Number="325" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÈÊÒ â àðõ.ïðîåêò.</Name>
+<Teacher>Îòèíîâà Ä À</Teacher>
+<Auditorium Number="282" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÈÊÒ â àðõ.ïðîåêò.</Name>
+<Teacher>Ñåðäþêîâà Í Ã</Teacher>
+<Auditorium Number="414" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Êðàïèâèí È Ñ</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>×ÅÐÒÅÆ-ÊÎÍÑÒÐÓÊÒÎÐ</Name>
+<Teacher>Àíòîíîâà Å Þ</Teacher>
+<Auditorium Number="311" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>×ÅÐÒÅÆ-ÊÎÍÑÒÐÓÊÒÎÐ</Name>
+<Teacher>Êîëîäèíà Í Í</Teacher>
+<Auditorium Number="311)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>×ÅÐÒÅÆ-ÊÎÍÑÒÐÓÊÒÎÐ</Name>
+<Teacher>Àíòîíîâà Å Þ</Teacher>
+<Auditorium Number="311" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>×ÅÐÒÅÆ-ÊÎÍÑÒÐÓÊÒÎÐ</Name>
+<Teacher>Êîëîäèíà Í Í</Teacher>
+<Auditorium Number="311)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="21-À-22">
+<Timetable>
+<Day N="5">
+<Lesson N="2">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÔÈËÎÑÎÔÈÈ</Name>
+<Teacher>Âåñåëîâà Í Í</Teacher>
+<Auditorium Number="509" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÔÈËÎÑÎÔÈÈ</Name>
+<Teacher>Âåñåëîâà Í Í</Teacher>
+<Auditorium Number="509" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Âëàñîâà Î Ë</Teacher>
+<Auditorium Number="429" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="22-À-22">
+<Timetable>
+<Day N="5">
+<Lesson N="2">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Ñóùèê Å Â</Teacher>
+<Auditorium Number="Ñ ÇÀË" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîìîâêèíà Ð À</Teacher>
+<Auditorium Number="346" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîíîâàëîâà È Þ</Teacher>
+<Auditorium Number="347" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Ìàêàðîâà À È</Teacher>
+<Auditorium Number="418)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Ìåëåøåâ È Ñ</Teacher>
+<Auditorium Number="418" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="23-À-22">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Êðàïèâèí È Ñ</Teacher>
+<Auditorium Number="511" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Êóçüìèíà È Ë</Teacher>
+<Auditorium Number="Ñ.Ç." Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Ìàêàðîâà À È</Teacher>
+<Auditorium Number="418)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Ìåëåøåâ È Ñ</Teacher>
+<Auditorium Number="418" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîìîâêèíà Ð À</Teacher>
+<Auditorium Number="346" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîíîâàëîâà È Þ</Teacher>
+<Auditorium Number="347" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Êóçüìèíà È Ë</Teacher>
+<Auditorium Number="Ñ.Ç." Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÒÅÕÍÈ×ÅÑÊÀß ÌÅÕÀÍÈÊÀ</Name>
+<Teacher>Âàñèëüåâà Å È</Teacher>
+<Auditorium Number="215" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÔÈËÎÑÎÔÈÈ</Name>
+<Teacher>Ðûá÷àê À Â</Teacher>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="24-À-22">
+<Timetable>
+<Day N="5">
+<Lesson N="3">
+<Part N="1">
+<Name>ÈÑÒÎÐÈß</Name>
+<Teacher>Êðàïèâèí È Ñ</Teacher>
+<Auditorium Number="511" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÐÈÑÓÍÎÊ.ÆÈÂÎÏÈÑÜ</Name>
+<Teacher>Ãóùèíà Í À</Teacher>
+<Auditorium Number="325)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÐÈÑÓÍÎÊ.ÆÈÂÎÏÈÑÜ</Name>
+<Teacher>Ìàðòûíîâà-Ôèäåëüìàí À Ë</Teacher>
+<Auditorium Number="325" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Ìàíàêîâ Î Å</Teacher>
+<Auditorium Number="349" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Íåäîñåêèíà Ñ À</Teacher>
+<Auditorium Number="209" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÔÈËÎÑÎÔÈÈ</Name>
+<Teacher>Ðûá÷àê À Â</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÔÈËÎÑÎÔÈÈ</Name>
+<Teacher>Ðûá÷àê À Â</Teacher>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="21-Ì-22">
+<Timetable>
+<Day N="6">
+<Lesson N="2">
+<Part N="1">
+<Name>ÏÐ.ÑÈÑÒ.ÂÎÄÎÑÍÀÁÆ</Name>
+<Teacher>Ïîäåíêîâà À À</Teacher>
+<Auditorium Number="503" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Ñòåïàíîâ Â Ï</Teacher>
+<Auditorium Number="Ñ.ÇÀË" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="22-Ì-22">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>Êóðàòîðñêèé ÷àñ</Name>
+<Teacher>Ïåòðîâà Å À</Teacher>
+<Auditorium Number="145" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÃÅÎÄÅÇÈÈ</Name>
+<Teacher>Ñàìîéëîâ À Ã</Teacher>
+<Auditorium Number="410" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÃÈÄÐÀÂËÈÊÈ</Name>
+<Teacher>Ïîäåíêîâà À À</Teacher>
+<Auditorium Number="503" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Ñàãàåâà Ý Ì</Teacher>
+<Auditorium Number="220" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Òðèù Í Ï</Teacher>
+<Auditorium Number="349" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÌÀÒ-ËÛ È ÈÇÄÅËÈß ÑÒÓ</Name>
+<Teacher>Ïîäåíêîâà À À</Teacher>
+<Auditorium Number="503" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Ñòåïàíîâ Â Ï</Teacher>
+<Auditorium Number="Ñ.ÇÀË" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="21-Ñ-22">
+</Group>
+<Group Name="22-Ñ-22">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÀÐÕÈÒÅÊÒÓÐÀ ÇÄ.</Name>
+<Teacher>Ìåíüøèêîâ È Ô</Teacher>
+<Auditorium Number="524" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÏÎËÓ×.ÏÐÎÔÅÑÑÈÈ</Name>
+<Teacher>Êàðìàöêàÿ Í Í</Teacher>
+<Auditorium Number="451" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Ñóùèê Å Â</Teacher>
+<Auditorium Number="Ñ ÇÀË" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="23-Ñ-22">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Ìàêàðîâà À È</Teacher>
+<Auditorium Number="418)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÈÍÔÎÐÌÀÒÈÊÀ</Name>
+<Teacher>Ìåëåøåâ È Ñ</Teacher>
+<Auditorium Number="418" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÑÒÐ.ÌÀÒÅÐÈÀËÛ È ÈÇÄÅËÈß</Name>
+<Teacher>Ñàôðîíîâà Ñ Â</Teacher>
+<Auditorium Number="216" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÃÅÎÄÅÇÈÈ</Name>
+<Teacher>Ãðóçäåâ Þ À</Teacher>
+<Auditorium Number="410" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÔÈËÎÑÎÔÈÈ</Name>
+<Teacher>Èëüèí À Î</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÏÎËÓ×.ÏÐÎÔÅÑÑÈÈ</Name>
+<Teacher>Êàðìàöêàÿ Í Í</Teacher>
+<Auditorium Number="451" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÀÐÕÈÒÅÊÒÓÐÀ ÇÄ.</Name>
+<Teacher>Ìåíüøèêîâ È Ô</Teacher>
+<Auditorium Number="524" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÒÅÕÍÈ×ÅÑÊÀß ÌÅÕÀÍÈÊÀ</Name>
+<Teacher>Âàñèëüåâà Å È</Teacher>
+<Auditorium Number="215" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="24-Ñ-22">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÀÐÕÈÒÅÊÒÓÐÀ ÇÄ.</Name>
+<Teacher>Ïîïîâà À Â</Teacher>
+<Auditorium Number="214" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÈÍÔ.ÒÅÕÍÎË. Â ÏÐ.ÄÅßÒ.</Name>
+<Teacher>Ìàêàðîâà À È</Teacher>
+<Auditorium Number="418)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÈÍÔ.ÒÅÕÍÎË. Â ÏÐ.ÄÅßÒ.</Name>
+<Teacher>Ìåëåøåâ È Ñ</Teacher>
+<Auditorium Number="418" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÑÒÐ.ÌÀÒÅÐÈÀËÛ È ÈÇÄÅËÈß</Name>
+<Teacher>Ñàôðîíîâà Ñ Â</Teacher>
+<Auditorium Number="216" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîìîâêèíà Ð À</Teacher>
+<Auditorium Number="346" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîíîâàëîâà È Þ</Teacher>
+<Auditorium Number="347" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÔÈËÎÑÎÔÈÈ</Name>
+<Teacher>Ðûá÷àê À Â</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÒÅÕÍÈ×ÅÑÊÀß ÌÅÕÀÍÈÊÀ</Name>
+<Teacher>Âàñèëüåâà Å È</Teacher>
+<Auditorium Number="215" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="25-Ñ-22">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÑÒÐ.ÌÀÒÅÐÈÀËÛ È ÈÇÄÅËÈß</Name>
+<Teacher>Ñàôðîíîâà Ñ Â</Teacher>
+<Auditorium Number="216" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÀÐÕÈÒÅÊÒÓÐÀ ÇÄ.</Name>
+<Teacher>Ïîïîâà À Â</Teacher>
+<Auditorium Number="214" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Ñòåïàíîâ Â Ï</Teacher>
+<Auditorium Number="Ñ.ÇÀË" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÏÎËÓ×.ÏÐÎÔÅÑÑÈÈ</Name>
+<Teacher>Êàðìàöêàÿ Í Í</Teacher>
+<Auditorium Number="451" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Ìàíàêîâ Î Å</Teacher>
+<Auditorium Number="349" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Íåäîñåêèíà Ñ À</Teacher>
+<Auditorium Number="209" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÔÈËÎÑÎÔÈÈ</Name>
+<Teacher>Âåñåëîâà Í Í</Teacher>
+<Auditorium Number="432" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÔÈËÎÑÎÔÈÈ</Name>
+<Teacher>Âåñåëîâà Í Í</Teacher>
+<Auditorium Number="432" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="201-À-22">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>Èç àðõ çàì ÈÊÒ</Name>
+<Teacher>Îòèíîâà Ä À</Teacher>
+<Auditorium Number="282" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÏËÀÍÈÐ.àðõ.ïðîåêò.</Name>
+<Teacher>Ïîæàðñêàÿ Â Â</Teacher>
+<Auditorium Number="314" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÑÍÎÂÛ ÃÐÀÄÎÑÒÐÎÈÒÅËÜÑÒÂÀ</Name>
+<Teacher>Àíòîíîâ Â Ì</Teacher>
+<Auditorium Number="330" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Ýêîëîãè÷åñê.îñí. àðõ.ïðîåêò.</Name>
+<Teacher>Êîìàðîâà Ë Ñ</Teacher>
+<Auditorium Number="213" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>Ïðîåêò. æ. äîìà óñàäåáí. òèïà</Name>
+<Teacher>Àíòîíîâà Å Þ</Teacher>
+<Auditorium Number="311" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Ïðîåêò. æ. äîìà óñàäåáí. òèïà</Name>
+<Teacher>Êîëîäèíà Í Í</Teacher>
+<Auditorium Number="311)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Ïðîåêò. æ. äîìà óñàäåáí. òèïà</Name>
+<Teacher>Àíòîíîâà Å Þ</Teacher>
+<Auditorium Number="311" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Ïðîåêò. æ. äîìà óñàäåáí. òèïà</Name>
+<Teacher>Êîëîäèíà Í Í</Teacher>
+<Auditorium Number="311)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Èç àðõ çàì ÈÊÒ</Name>
+<Teacher>Ñåðäþêîâà Í Ã</Teacher>
+<Auditorium Number="414" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="31-À-21">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ËÀÍÄØÀÔÒ. ÀÐÕ.</Name>
+<Teacher>Ãëàçîâà Î Ñ</Teacher>
+<Auditorium Number="351" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÐÈÑÓÍÎÊ.ÆÈÂÎÏÈÑÜ</Name>
+<Teacher>Ãóùèíà Í À</Teacher>
+<Auditorium Number="325)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÐÈÑÓÍÎÊ.ÆÈÂÎÏÈÑÜ</Name>
+<Teacher>Ìàðòûíîâà-Ôèäåëüìàí À Ë</Teacher>
+<Auditorium Number="325" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÏÑÈÕÎËÎÃÈß ÎÁÙ.</Name>
+<Teacher>Ïîëÿêîâà Í Þ</Teacher>
+<Auditorium Number="456" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Ñòð.êîíñòð.ýë.ñòàò</Name>
+<Teacher>Âîðîáüåâà È Â</Teacher>
+<Auditorium Number="455" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Ñòåïàíîâ Â Ï</Teacher>
+<Auditorium Number="Ñ.ÇÀË" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ËÀÍÄØÀÔÒ. ÀÐÕ.</Name>
+<Teacher>Ãëàçîâà Î Ñ</Teacher>
+<Auditorium Number="314" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Ýêîëîãè÷åñê.îñí. àðõ.ïðîåêò.</Name>
+<Teacher>Êîìàðîâà Ë Ñ</Teacher>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="32-À-21">
+<Timetable>
+<Day N="5">
+<Lesson N="2">
+<Part N="1">
+<Name>ËÀÍÄØÀÔÒ. ÀÐÕ.</Name>
+<Teacher>Àíòîíîâà Å Þ</Teacher>
+<Auditorium Number="311" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÁÅÇÎÏÀÑÍ. ÆÈÇÍÅÄ.</Name>
+<Teacher>Âåñåëîâà Ì Í</Teacher>
+<Auditorium Number="341" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Ñòåïàíîâ Â Ï</Teacher>
+<Auditorium Number="Ñ.ÇÀË" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>Ýêîëîãè÷åñê.îñí. àðõ.ïðîåêò.</Name>
+<Teacher>Êîìàðîâà Ë Ñ</Teacher>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîìîâêèíà Ð À</Teacher>
+<Auditorium Number="346" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîíîâàëîâà È Þ</Teacher>
+<Auditorium Number="347" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="33-À-21">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÏÑÈÕÎËÎÃÈß ÎÁÙ.</Name>
+<Teacher>Ïîëÿêîâà Í Þ</Teacher>
+<Auditorium Number="456" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîìîâêèíà Ð À</Teacher>
+<Auditorium Number="346" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîíîâàëîâà È Þ</Teacher>
+<Auditorium Number="347" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÒÈÏÎËÎÃÈß ÇÄÀÍÈÉ</Name>
+<Teacher>Ãðåáåíèêîâà Ë À</Teacher>
+<Auditorium Number="320" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÁÅÇÎÏÀÑÍ. ÆÈÇÍÅÄ.</Name>
+<Teacher>Âåñåëîâà Ì Í</Teacher>
+<Auditorium Number="341" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="2">
+<Part N="1">
+<Name>Ñòð.êîíñòð.ýë.ñòàò</Name>
+<Teacher>Âîðîáüåâà È Â</Teacher>
+<Auditorium Number="455" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ËÀÍÄØÀÔÒ. ÀÐÕ.</Name>
+<Teacher>Ãëàçîâà Î Ñ</Teacher>
+<Auditorium Number="314" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Ýêîëîãè÷åñê.îñí. àðõ.ïðîåêò.</Name>
+<Teacher>Êîìàðîâà Ë Ñ</Teacher>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="34-À-21">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÐÈÑÓÍÎÊ.ÆÈÂÎÏÈÑÜ</Name>
+<Teacher>Ãóùèíà Í À</Teacher>
+<Auditorium Number="325)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÐÈÑÓÍÎÊ.ÆÈÂÎÏÈÑÜ</Name>
+<Teacher>Ìàðòûíîâà-Ôèäåëüìàí À Ë</Teacher>
+<Auditorium Number="325" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÁÅÇÎÏÀÑÍ. ÆÈÇÍÅÄ.</Name>
+<Teacher>Âåñåëîâà Ì Í</Teacher>
+<Auditorium Number="341" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÏÑÈÕÎËÎÃÈß ÎÁÙ.</Name>
+<Teacher>Êðàñíîâà Ê Â</Teacher>
+<Auditorium Number="332" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Íåäîñåêèíà Ñ À</Teacher>
+<Auditorium Number="209" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Ñîêîëîâà À Ñ</Teacher>
+<Auditorium Number="434" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="31-Ì-21">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÁÅÇÎÏÀÑÍ. ÆÈÇÍÅÄ.</Name>
+<Teacher>Êîìàðîâà Ë Ñ</Teacher>
+<Auditorium Number="213" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÌÎÍÒÆ.ÑÈÑ.ÂÎÄÎÑÍÁ.</Name>
+<Teacher>Ïîäåíêîâà À À</Teacher>
+<Auditorium Number="503" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Ñàãàåâà Ý Ì</Teacher>
+<Auditorium Number="220" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Òðèù Í Ï</Teacher>
+<Auditorium Number="349" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÌÎÍÒÆ.ÑÈÑ.ÂÎÄÎÑÍÁ.</Name>
+<Teacher>Ïîäåíêîâà À À</Teacher>
+<Auditorium Number="503" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="32-Ì-21">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÝÊÎÍÎÌÈÊÀ îðã.</Name>
+<Teacher>Ïåòðîâà Þ À</Teacher>
+<Auditorium Number="520" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÏÐÎÅÊÒ.ÑÈÑÒ.ÎÒÎÏË.</Name>
+<Teacher>Ñêóëêèíà Å Â</Teacher>
+<Auditorium Number="507" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÁÅÇÎÏÀÑÍ. ÆÈÇÍÅÄ.</Name>
+<Teacher>Êîìàðîâà Ë Ñ</Teacher>
+<Auditorium Number="213" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="31-Ñ-21">
+<Timetable>
+<Day N="5">
+<Lesson N="2">
+<Part N="1">
+<Name>ÒÅÕÍÎËÎÃÈß È ÎÐÃÀÍÈÇÀÖÈß ÑÒÐ-ÂÀ</Name>
+<Teacher>Õ Õ 3</Teacher>
+<Auditorium Number="521" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Ó÷åò êîíòð òåõí ïð</Name>
+<Teacher>Õ Õ 3</Teacher>
+<Auditorium Number="521" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>Öåíîîáðàçîâ. è ÏÑÄ</Name>
+<Teacher>Ïåòðîâà Þ À</Teacher>
+<Auditorium Number="520" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Öåíîîáðàçîâ. è ÏÑÄ</Name>
+<Teacher>Ïåòðîâà Þ À</Teacher>
+<Auditorium Number="520" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Êóçüìèíà È Ë</Teacher>
+<Auditorium Number="Ñ.Ç." Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÎÐÃ.ÏËÀÍ.ÑÒÐ.ÏÎÄÐÇ</Name>
+<Teacher>Êîðîëåâ Â Á</Teacher>
+<Auditorium Number="522" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="32-Ñ-21">
+<Timetable>
+<Day N="5">
+<Lesson N="3">
+<Part N="1">
+<Name>ÏÐÀÂ. ÎÁ. ÏÐÎÔ. ÄÅßÒ.</Name>
+<Teacher>Åñàÿí Ã Ã</Teacher>
+<Auditorium Number="313" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÀÐÕÈÒÅÊÒÓÐÀ ÇÄ.</Name>
+<Teacher>Ìåíüøèêîâ È Ô</Teacher>
+<Auditorium Number="524" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÐÃ.ÏËÀÍ.ÑÒÐ.ÏÎÄÐÇ</Name>
+<Teacher>Êîðîëåâ Â Á</Teacher>
+<Auditorium Number="522" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Öåíîîáðàçîâ. è ÏÑÄ</Name>
+<Teacher>Ïåòðîâà Þ À</Teacher>
+<Auditorium Number="520" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="33-Ñ-21">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÎÐÃ.ÏËÀÍ.ÑÒÐ.ÏÎÄÐÇ</Name>
+<Teacher>Êîðîëåâ Â Á</Teacher>
+<Auditorium Number="522" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Ñòåïàíîâ Â Ï</Teacher>
+<Auditorium Number="Ñ.ÇÀË" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÎÐÃ.ÏËÀÍ.ÑÒÐ.ÏÎÄÐÇ</Name>
+<Teacher>Êîðîëåâ Â Á</Teacher>
+<Auditorium Number="522" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÀÐÕÈÒÅÊÒÓÐÀ ÇÄ.</Name>
+<Teacher>Ìåíüøèêîâ È Ô</Teacher>
+<Auditorium Number="524" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÑÍ.ÏÐ.ÑÒÐ.ÊÎÍÑÒÐ.</Name>
+<Teacher>Âîðîáüåâà È Â</Teacher>
+<Auditorium Number="455" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÀÐÕÈÒÅÊÒÓÐÀ ÇÄ.</Name>
+<Teacher>Ìåíüøèêîâ È Ô</Teacher>
+<Auditorium Number="524" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="34-Ñ-21">
+<Timetable>
+<Day N="5">
+<Lesson N="2">
+<Part N="1">
+<Name>ÎÑÍ.ÏÐ.ÑÒÐ.ÊÎÍÑÒÐ.</Name>
+<Teacher>Âîðîáüåâà È Â</Teacher>
+<Auditorium Number="455" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÑÍ.ÏÐ.ÑÒÐ.ÊÎÍÑÒÐ.</Name>
+<Teacher>Âîðîáüåâà È Â</Teacher>
+<Auditorium Number="455" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÒÅÕÍÎËÎÃÈß È ÎÐÃÀÍÈÇÀÖÈß ÑÒÐ-ÂÀ</Name>
+<Teacher>Ìàòâååâ À À</Teacher>
+<Auditorium Number="454" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÒÅÕÍÎËÎÃÈß È ÎÐÃÀÍÈÇÀÖÈß ÑÒÐ-ÂÀ</Name>
+<Teacher>Ìàòâååâ À À</Teacher>
+<Auditorium Number="454" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Ó÷åò êîíòð òåõí ïð</Name>
+<Teacher>Ìàòâååâ À À</Teacher>
+<Auditorium Number="454" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Ó÷åò êîíòð òåõí ïð</Name>
+<Teacher>Ìàòâååâ À À</Teacher>
+<Auditorium Number="454" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="35-Ñ-21">
+<Timetable>
+<Day N="5">
+<Lesson N="3">
+<Part N="1">
+<Name>ÀÐÕÈÒÅÊÒÓÐÀ ÇÄ.</Name>
+<Teacher>Ïîïîâà À Â</Teacher>
+<Auditorium Number="214" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÀÐÕÈÒÅÊÒÓÐÀ ÇÄ.</Name>
+<Teacher>Ïîïîâà À Â</Teacher>
+<Auditorium Number="214" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÒÅÕÍÎËÎÃÈß È ÎÐÃÀÍÈÇÀÖÈß ÑÒÐ-ÂÀ</Name>
+<Teacher>Ôåäÿøåâà Î Â</Teacher>
+<Auditorium Number="510" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÒÅÕÍÎËÎÃÈß È ÎÐÃÀÍÈÇÀÖÈß ÑÒÐ-ÂÀ</Name>
+<Teacher>Ôåäÿøåâà Î Â</Teacher>
+<Auditorium Number="510" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Ó÷åò êîíòð òåõí ïð</Name>
+<Teacher>Ôåäÿøåâà Î Â</Teacher>
+<Auditorium Number="510" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Ó÷åò êîíòð òåõí ïð</Name>
+<Teacher>Ôåäÿøåâà Î Â</Teacher>
+<Auditorium Number="510" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="301-À-21">
+<Timetable>
+<Day N="5">
+<Lesson N="2">
+<Part N="1">
+<Name>ÏÐÀÂ. ÎÁ. ÏÐÎÔ. ÄÅßÒ.</Name>
+<Teacher>Åñàÿí Ã Ã</Teacher>
+<Auditorium Number="313" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Àíòîíîâà Å Þ</Teacher>
+<Auditorium Number="311" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Êîëîäèíà Í Í</Teacher>
+<Auditorium Number="311)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Àíòîíîâà Å Þ</Teacher>
+<Auditorium Number="311" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Êîëîäèíà Í Í</Teacher>
+<Auditorium Number="311)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="3">
+<Part N="1">
+<Name>ÏÐÀÂ. ÎÁ. ÏÐÎÔ. ÄÅßÒ.</Name>
+<Teacher>Åñàÿí Ã Ã</Teacher>
+<Auditorium Number="313" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Ìàíàêîâ Î Å</Teacher>
+<Auditorium Number="349" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Íåäîñåêèíà Ñ À</Teacher>
+<Auditorium Number="209" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="41-À-20">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÏÐÀÂ. ÎÁ. ÏÐÎÔ. ÄÅßÒ.</Name>
+<Teacher>Åñàÿí Ã Ã</Teacher>
+<Auditorium Number="313" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÀÐÕ.ÏÐ.ÈíòåðÎáù.ÇÄ</Name>
+<Teacher>Îòèíîâà Ä À</Teacher>
+<Auditorium Number="282" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Ãëàçîâà Î Ñ</Teacher>
+<Auditorium Number="314)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Ïîæàðñêàÿ Â Â</Teacher>
+<Auditorium Number="314" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Ãëàçîâà Î Ñ</Teacher>
+<Auditorium Number="314)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Ïîæàðñêàÿ Â Â</Teacher>
+<Auditorium Number="314" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="42-À-20">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Àíòîíîâ Â Ì</Teacher>
+<Auditorium Number="330" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Çàáîÿðêèí È Â</Teacher>
+<Auditorium Number="330)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Àíòîíîâ Â Ì</Teacher>
+<Auditorium Number="330" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Çàáîÿðêèí È Â</Teacher>
+<Auditorium Number="330)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="3">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Ìàíàêîâ Î Å</Teacher>
+<Auditorium Number="349" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Íåäîñåêèíà Ñ À</Teacher>
+<Auditorium Number="209" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÏÐÀÂ. ÎÁ. ÏÐÎÔ. ÄÅßÒ.</Name>
+<Teacher>Åñàÿí Ã Ã</Teacher>
+<Auditorium Number="313" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="43-À-20">
+<Timetable>
+<Day N="5">
+<Lesson N="3">
+<Part N="1">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Êîêîðèí À Å</Teacher>
+</Part>
+<Part N="2">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Ìîëèòâèí Ï Â</Teacher>
+<Auditorium Number="335" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Êîêîðèí À Å</Teacher>
+</Part>
+<Part N="2">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Ìîëèòâèí Ï Â</Teacher>
+<Auditorium Number="335" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="2">
+<Part N="1">
+<Name>ÎÑÍ.ÝÊÎÍ.ÀÐÕ.ÏÐ.</Name>
+<Teacher>Ñîðîêèíà Â Â</Teacher>
+<Auditorium Number="205" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÑÍ.ÝÊÎÍ.ÀÐÕ.ÏÐ.</Name>
+<Teacher>Ñîðîêèíà Â Â</Teacher>
+<Auditorium Number="205" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîìîâêèíà Ð À</Teacher>
+<Auditorium Number="346" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîíîâàëîâà È Þ</Teacher>
+<Auditorium Number="347" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="44-À-20">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Êîëîäèíà Í Í</Teacher>
+<Auditorium Number="335)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Ìîëèòâèí Ï Â</Teacher>
+<Auditorium Number="335" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Êîëîäèíà Í Í</Teacher>
+<Auditorium Number="335)" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>ÀÐÕ.ÏÐ.ÎÁÙ.ÇÄ.</Name>
+<Teacher>Ìîëèòâèí Ï Â</Teacher>
+<Auditorium Number="335" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Íåäîñåêèíà Ñ À</Teacher>
+<Auditorium Number="209" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Ñîêîëîâà À Ñ</Teacher>
+<Auditorium Number="434" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÀÐÕ.ÏÐ.ÈíòåðÎáù.ÇÄ</Name>
+<Teacher>Ãðåáåíèêîâà Ë À</Teacher>
+<Auditorium Number="320" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Êóçüìèíà È Ë</Teacher>
+<Auditorium Number="Ñ.Ç." Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÏÐÀÂ. ÎÁ. ÏÐÎÔ. ÄÅßÒ.</Name>
+<Teacher>Åñàÿí Ã Ã</Teacher>
+<Auditorium Number="313" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÑÍ.ÝÊÎÍ.ÀÐÕ.ÏÐ.</Name>
+<Teacher>Ïåòðîâà Þ À</Teacher>
+<Auditorium Number="520" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="41-Ì-20">
+</Group>
+<Group Name="42-Ì-20">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÐÅÌÎÍÒ.ÑÈÑ.ÎÒÎÏË.</Name>
+<Teacher>Ñêóëêèíà Å Â</Teacher>
+<Auditorium Number="507" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÌÅÍÅÄÆÌÅÍÒ</Name>
+<Teacher>Ïîëÿêîâà Í Þ</Teacher>
+<Auditorium Number="456" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÐÅÌÎÍÒ ÑÈÑ.ÂÎÄÎÑÍÁ</Name>
+<Teacher>Ñêóëêèíà Å Â</Teacher>
+<Auditorium Number="507" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÏÐÀÂ. ÎÁ. ÏÐÎÔ. ÄÅßÒ.</Name>
+<Teacher>×èðêîâà Ä Í</Teacher>
+<Auditorium Number="313" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Êóðàòîðñêèé ÷àñ</Name>
+<Teacher>Ïîäåíêîâà À À</Teacher>
+<Auditorium Number="503" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="2">
+<Part N="1">
+<Name>ÎÐÃ.ÊÎÍÒ.ÝÊÑÏ.ÎÒÎÏ</Name>
+<Teacher>Äóåâà À Í</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÐÃ.ÊÎÍÒ.ÝÊÑÏË.ÂÎÄ</Name>
+<Teacher>Ïîäåíêîâà À À</Teacher>
+<Auditorium Number="503" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="41-Ñ-20">
+<Timetable>
+<Day N="5">
+<Lesson N="3">
+<Part N="1">
+<Name>ÝÊÎÍÎÌÈÊÀ îòð.</Name>
+<Teacher>Ìàòâååâà Å Ñ</Teacher>
+<Auditorium Number="519" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÎÖÅÍÊÀ ÒÅÕ.ÑÎÑÒ.</Name>
+<Teacher>Êàðìàöêàÿ Í Í</Teacher>
+<Auditorium Number="451" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÏÐÎÅÊÒ ÏÐÎÈÇ ÐÀÁ</Name>
+<Teacher>Ìàðøåâà Ñ Ý</Teacher>
+<Auditorium Number="521" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÏÐÎÅÊÒ ÏÐÎÈÇ ÐÀÁ</Name>
+<Teacher>Ìàðøåâà Ñ Ý</Teacher>
+<Auditorium Number="521" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÝÊÎÍÎÌÈÊÀ îòð.</Name>
+<Teacher>Ìàòâååâà Å Ñ</Teacher>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÝÊÎÍÎÌÈÊÀ îòð.</Name>
+<Teacher>Ìàòâååâà Å Ñ</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>Êóðàòîðñêèé ÷àñ</Name>
+<Teacher>Ìàòâååâà Å Ñ</Teacher>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="42-Ñ-20">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Ñàãàåâà Ý Ì</Teacher>
+<Auditorium Number="220" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Òðèù Í Ï</Teacher>
+<Auditorium Number="349" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÐÅÊÎÍÑÒÇÄ è ÑÎÎÐÓÆ</Name>
+<Teacher>Êèðíîñ Å È</Teacher>
+<Auditorium Number="454" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÖÅÍÊÀ ÒÅÕ.ÑÎÑÒ.</Name>
+<Teacher>Êàðìàöêàÿ Í Í</Teacher>
+<Auditorium Number="451" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÝÊÎÍÎÌÈÊÀ îòð.</Name>
+<Teacher>Êîðîëåâ Â Á</Teacher>
+<Auditorium Number="522" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="2">
+<Part N="1">
+<Name>ÝÊÎÍÎÌÈÊÀ îòð.</Name>
+<Teacher>Êîðîëåâ Â Á</Teacher>
+<Auditorium Number="522" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÖÅÍÊÀ ÒÅÕ.ÑÎÑÒ.</Name>
+<Teacher>Êàðìàöêàÿ Í Í</Teacher>
+<Auditorium Number="451" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÎÖÅÍÊÀ ÒÅÕ.ÑÎÑÒ.</Name>
+<Teacher>Êàðìàöêàÿ Í Í</Teacher>
+<Auditorium Number="451" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="43-Ñ-20">
+<Timetable>
+<Day N="5">
+<Lesson N="3">
+<Part N="1">
+<Name>ÐÅÊÎÍÑÒÇÄ è ÑÎÎÐÓÆ</Name>
+<Teacher>Êèðíîñ Å È</Teacher>
+<Auditorium Number="454" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÝÊÎÍÎÌÈÊÀ îòð.</Name>
+<Teacher>Ïåòðîâà Þ À</Teacher>
+<Auditorium Number="520" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="44-Ñ-20">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîìîâêèíà Ð À</Teacher>
+<Auditorium Number="346" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>Èíîñòð.ÿçûê</Name>
+<Teacher>Êîíîâàëîâà È Þ</Teacher>
+<Auditorium Number="347" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÎÖÅÍÊÀ ÒÅÕ.ÑÎÑÒ.</Name>
+<Teacher>Ìåíüøèêîâ È Ô</Teacher>
+<Auditorium Number="524" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÝÊÎÍÎÌÈÊÀ îòð.</Name>
+<Teacher>Êîðîëåâ Â Á</Teacher>
+<Auditorium Number="522" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÏÐÎÅÊÒ ÏÐÎÈÇ ÐÀÁ</Name>
+<Teacher>Ìóñàëèÿí Í Ñ</Teacher>
+<Auditorium Number="519" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÏÐÎÅÊÒ ÏÐÎÈÇ ÐÀÁ</Name>
+<Teacher>Ìóñàëèÿí Í Ñ</Teacher>
+<Auditorium Number="519" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="45-Ñ-20">
+<Timetable>
+<Day N="5">
+<Lesson N="1">
+<Part N="1">
+<Name>ÐÅÊÎÍÑÒÇÄ è ÑÎÎÐÓÆ</Name>
+<Teacher>Êèðíîñ Å È</Teacher>
+<Auditorium Number="454" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>Îñí. ïðåäïð. äåÿò-òè</Name>
+<Teacher>Êîðîëåâ Â Á</Teacher>
+<Auditorium Number="522" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÎÖÅÍÊÀ ÒÅÕ.ÑÎÑÒ.</Name>
+<Teacher>Ìåíüøèêîâ È Ô</Teacher>
+<Auditorium Number="524" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+<Day N="6">
+<Lesson N="1">
+<Part N="1">
+<Name>ÎÖÅÍÊÀ ÒÅÕ.ÑÎÑÒ.</Name>
+<Teacher>Ìåíüøèêîâ È Ô</Teacher>
+<Auditorium Number="524" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="2">
+<Part N="1">
+<Name>ÝÊÎÍÎÌÈÊÀ îòð.</Name>
+<Teacher>Ìàòâååâà Å Ñ</Teacher>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>ÏÐÎÅÊÒ ÏÐÎÈÇ ÐÀÁ</Name>
+<Teacher>Ìàðøåâà Ñ Ý</Teacher>
+<Auditorium Number="521" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÏÐÎÅÊÒ ÏÐÎÈÇ ÐÀÁ</Name>
+<Teacher>Ìàðøåâà Ñ Ý</Teacher>
+<Auditorium Number="521" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+<Group Name="51-Ï-19">
+<Timetable>
+<Day N="5">
+<Lesson N="2">
+<Part N="1">
+<Name>Áåçîï.õðàí ñòð.ìàò</Name>
+<Teacher>Ïåòðîâà Þ À</Teacher>
+<Auditorium Number="520" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="3">
+<Part N="1">
+<Name>Îðã.ìàò.- òåõ.áàçû</Name>
+<Teacher>Ïåòðîâà Þ À</Teacher>
+<Auditorium Number="520" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>ÔÈÇ. ÊÓËÜÒÓÐÀ</Name>
+<Teacher>Ñóùèê Å Â</Teacher>
+<Auditorium Number="Ñ ÇÀË" Building="Ãëàâíûé êîðïóñ">
+</Auditorium>
+</Part>
+</Lesson>
+</Day>
+</Timetable>
+</Group>
+</ListGroup>
+</YhZav>
