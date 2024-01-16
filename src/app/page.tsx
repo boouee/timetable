@@ -34,7 +34,7 @@ export default async function HomePage() {
 
   return (
     <>
-      <Upload />
+      <SingleFileUploader />
       <Home YhZav={data.YhZav} />
     </>
   )
