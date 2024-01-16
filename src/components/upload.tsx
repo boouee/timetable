@@ -16,7 +16,7 @@ class Upload extends Component {
 		this.setState({
 			if (event.target.files[0]) {
 				selectedFile: event.target.files[0]
-			}
+			},
 		});
 	};
 
