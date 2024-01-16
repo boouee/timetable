@@ -14,7 +14,7 @@ class Upload extends Component {
 	onFileChange = (event: Event) => {
 		// Update the state
 		this.setState({
-			selectedFile: event.target.files[0],
+			selectedFile: event?.target.files[0],
 		});
 	};
 
