@@ -1,5 +1,6 @@
 import Home from '@/components/Home-mobile/Home'
 import { Welcome} from '@/interfaces'
+import xml2js from 'xml-js'
 
 
 async function getData() {
