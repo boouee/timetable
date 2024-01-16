@@ -9,9 +9,11 @@ class Upload extends Component {
 		// Initially, no file is selected
 		selectedFile: null,
 	};
-
+	interface HTMLInputEvent extends Event {
+    		target: HTMLInputElement & EventTarget;
+	}
 	// On file select (from the pop up)
-	onFileChange = (event: Event) => {
+	onFileChange = (event?: HTMLInputEvent) => {
 		// Update the state
 		if (!event.target?.files) {
 			return;
