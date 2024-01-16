@@ -4,7 +4,16 @@ import xml2js from 'xml-js'
 
 
 async function getData() {
-  const res = await fetch ('http://localhost:5000/public/data.json')
+  import XMLData from './data.xml';
+
+axios.get(XMLData, {
+   "Content-Type": "application/xml; charset=utf-8"
+})
+.then((response) => {
+ //  console.log('Your xml file as string', response.data);
+  return xml2js(response).json()
+});
+  //const res = await fetch ('http://localhost:5000/public/data.json')
   //const res = xml2js(xml)
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
