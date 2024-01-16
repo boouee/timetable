@@ -4,7 +4,7 @@ import xml2js from 'xml-js'
 
 
 async function getData() {
-  import XMLData from './data.xml';
+ /* import XMLData from './data.xml';
 
 axios.get(XMLData, {
    "Content-Type": "application/xml; charset=utf-8"
@@ -17,7 +17,7 @@ axios.get(XMLData, {
   //const res = xml2js(xml)
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
- 
+ */
   if (!res.ok) {
     // This will activate the closest `error.js` Error Boundary
     throw new Error('Failed to fetch data')
